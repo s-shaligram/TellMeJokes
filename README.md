@@ -31,14 +31,15 @@ Body-parser
 HTTPS
 
 Setup
+
 To run the Joke API Server on your local machine, follow these steps:
 
-Clone the repository to your local machine.
-Install Node.js and npm (Node Package Manager) if not already installed.
-Navigate to the project directory in the terminal.
-Run npm install to install the required dependencies.
-Start the server by running npm start.
-The server will now be running on port 443.
+1. Clone the repository to your local machine.
+2. Install Node.js and npm (Node Package Manager) if not already installed.
+3. Navigate to the project directory in the terminal.
+4. Run npm install to install the required dependencies.
+5. Start the server by running npm start.
+6. The server will now be running on port 443.
 
 Endpoints
 The Joke API Server exposes the following endpoints:
